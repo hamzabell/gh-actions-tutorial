@@ -1,6 +1,5 @@
 name: Demo Workflow
 on: [workflow_dispatch, push]
-description: This is a demo
 jobs:
   job_1:
     runs-on: ubuntu-latest
