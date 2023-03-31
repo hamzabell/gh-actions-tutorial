@@ -1,0 +1,8 @@
+name: Demo Workflow
+description: This is a demo
+jobs:
+  job_1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Demo Step
+        run: echo "This is a demo step"
