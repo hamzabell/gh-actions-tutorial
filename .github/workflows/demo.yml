@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Demo Step
-        run: echo "This is a demo step"
+        run: echo "This is a dev demo step"
   job_2:
     runs-on: ubuntu-latest
     steps:
